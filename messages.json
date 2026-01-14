@@ -1,0 +1,16 @@
+[
+  {
+    "tag_name": "v1.0",
+    "name": "Initial release",
+    "prerelease": false,
+    "draft": false,
+    "assets": [
+      {
+        "name": "GGManga.apk",
+        "browser_download_url": "https://github.com/DICALMO/GGManga/releases/download/v1.0/GGManga.apk",
+        "content_type": "application/vnd.android.package-archive",
+        "size": 12345678
+      }
+    ]
+  }
+]
